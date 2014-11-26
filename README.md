@@ -1,3 +1,3 @@
-materiais
+GXD - GBG, GDG e além
 =========
-para mais informações: https://github.com/gdgbrasil/materiais/wiki
+Para mais informações: https://github.com/gdgbrasil/materiais/wiki

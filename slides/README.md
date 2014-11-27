@@ -4,6 +4,9 @@
 
 [GDG - Intro / An introduction presentation for GDG chapters](https://github.com/erickmendonca/gdg-intro)
 
+##Coding Dojo
+
+[Coding Dojo](https://speakerdeck.com/erickmendonca/coding-dojo)
 
 ##Python
 

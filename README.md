@@ -6,4 +6,4 @@ Foi criado este repositório para ajudar no compartilhamento de conteúdos, conh
 
 Pretendemos reunir aqui diversos conteúdos divididos por tópicos de interesse. 
 
-Para mais informações: https://github.com/gdgbrasil/materiais/wiki
+Para mais informações: https://github.com/gxgbrasil/materiais/wiki

@@ -4,6 +4,10 @@
 
 [GDG - Intro / An introduction presentation for GDG chapters](https://github.com/erickmendonca/gdg-intro)
 
+##AngularJS
+
+[Passo a passo do jQuery ao Angular](http://cironunes.com/jquery-to-angular/)
+
 ##Coding Dojo
 
 [Coding Dojo](https://speakerdeck.com/erickmendonca/coding-dojo)

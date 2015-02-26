@@ -4,6 +4,12 @@
 
 [GDG - Intro / An introduction presentation for GDG chapters](https://github.com/erickmendonca/gdg-intro)
 
+##Android
+
+* [Android Fundamentals - Lesson 1 Review](https://speakerdeck.com/gdgaracaju/android-fundamentals-lesson-1-review)
+* [Não refaça, reutilize!](https://speakerdeck.com/gdgaracaju/nao-refaca-reutilize)
+* [Save the world: design for testability](https://speakerdeck.com/gdgaracaju/save-the-world-design-for-testability)
+
 ##AngularJS
 
 [Passo a passo do jQuery ao Angular](http://cironunes.com/jquery-to-angular/)
@@ -29,3 +35,7 @@
 ##PHP
 
 [PHP <3 Google Maps](https://speakerdeck.com/malukenho/php-3-google-maps)
+
+##Ruby
+
+[Criando APIs com Ruby on Rails](https://speakerdeck.com/gdgaracaju/criando-api-com-ruby-on-rails)

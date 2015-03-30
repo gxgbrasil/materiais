@@ -7,8 +7,12 @@
 ##Android
 
 * [Android Fundamentals - Lesson 1 Review](https://speakerdeck.com/gdgaracaju/android-fundamentals-lesson-1-review)
+* [Android Fundamentals - Lesson 2 Review](https://speakerdeck.com/gdgaracaju/android-fundamentals-lesson-2-review)
+* [Android Fundamentals - Lesson 3 Review](https://speakerdeck.com/gdgaracaju/android-fundamentals-lesson-3-review)
 * [Não refaça, reutilize!](https://speakerdeck.com/gdgaracaju/nao-refaca-reutilize)
 * [Save the world: design for testability](https://speakerdeck.com/gdgaracaju/save-the-world-design-for-testability)
+* [Segurança no Android](https://speakerdeck.com/gdgaracaju/seguranca-no-android)
+* [Suporte a múltiplas telas](https://speakerdeck.com/gdgaracaju/suporte-multiplas-telas-no-android)
 
 ##AngularJS
 
@@ -17,6 +21,14 @@
 ##Coding Dojo
 
 [Coding Dojo](https://speakerdeck.com/erickmendonca/coding-dojo)
+
+##Git
+
+[Git](https://speakerdeck.com/gdgaracaju/git)
+
+##.NET
+
+[Backend para aplicativos mobile](https://speakerdeck.com/gdgaracaju/backend-para-aplicativos-mobile)
 
 ##Python
 
